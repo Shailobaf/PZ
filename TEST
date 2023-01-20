@@ -1,0 +1,34 @@
+1)Напишите команду для создания вашешго имени в GitHub;
+1- git config -- user.name "John Doe"
+2- git config --global user.name "John Doe"+
+3- git create --global name "John Doe"
+
+2)Напишите команду для проверки используемой конфигурации;
+1- git config -result
+2- git  global --list
+3- git config --list+
+
+3)Напишите команду для клонрирования  существующего репозитория;
+1- git clone https://github.com/OlgaManakova2021/pythonProjectForGit +
+2- git ciclone <https://github.com/OlgaManakova2021/pythonProjectForGit>
+3- git config --clone 'https://github.com/OlgaManakova2021/pythonProjectForGit'
+
+4)Как создать новую ветку в git, и перейти в созданную ветку (указать '2' команды);
+1- git branch hotfix, git checkout hotfix+
+2- git hotfix checkout, git checkout branch 
+3- git checkout hotfix,  git branch hotfix
+
+5)Как посмотреть все ветки git в репозитории;
+1- git branch+
+2- git infostack
+3- gti localsearch
+
+6)Как опубликовать ветку в git;
+1- git rush --set-upstream scream <название ветки>
+2- git push --set-upstream origin <название ветки>+
+3- git push --set-origin <название ветки>
+
+7)Как переключиться на другую ветку git (2 варианта);
+1- git checkout new_feature +
+2- git switch new_feature +
+3- git local  new_feature
